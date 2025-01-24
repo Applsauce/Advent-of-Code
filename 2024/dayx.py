@@ -1,5 +1,6 @@
 from aocd.models import Puzzle
 from aocd import submit
+import numpy as np
 
 DAY = 1
 YEAR = 2024
